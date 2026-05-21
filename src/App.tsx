@@ -348,7 +348,7 @@ function App() {
       
       <section id="specs" className="specs">
         <div className="specs-header fade-in">
-          <span className="section-label">System Requirements</span>
+          <span className="section-label">System Requirement</span>
           <h2>Can You Run It?</h2>
         </div>
 
