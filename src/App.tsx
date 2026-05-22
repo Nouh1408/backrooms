@@ -41,6 +41,7 @@ const features = [
     title: 'Immersive Co-op',
     desc: '1–6 players. Survive together or die alone in the endless corridors.',
   },
+  
   {
     icon: (
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" className="feature-icon">
